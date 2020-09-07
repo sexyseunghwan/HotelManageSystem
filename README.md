@@ -74,9 +74,7 @@
     <tr>
         <th>화면설계</th>
         <th colspan="4">직원</th>        
-        <th>교육생</th>
         <th colspan="2">교사</th>  
-        <th>관리자</th>    
     </tr><tr>
         <th>소스(코딩)</th>
         <th>직원부분 개발 및 화면설계 </th>
