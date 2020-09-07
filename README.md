@@ -73,7 +73,7 @@
     </tr>
     <tr>
         <th>화면설계</th>
-        <th colspan="2">관리자</th>        
+        <th colspan="4">직원</th>        
         <th>교육생</th>
         <th colspan="2">교사</th>  
         <th>관리자</th>    
