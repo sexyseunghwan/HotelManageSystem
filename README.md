@@ -1,7 +1,9 @@
 # HotelManageSystem
-<h1>sist java console project</h1>
-<div class="Box-body p-5">
-👋![메인화면](https://github.com/a45hvn/HotelManageSystem/issues/3)
+
+![메인화면](https://user-images.githubusercontent.com/66715897/92342621-52374480-f0fc-11ea-87cc-13ac68257e4c.png)
+
+### 👋 Introduction
+
 <table>
     <tbody><tr>
         <th>프로젝트 명 </th>
@@ -14,7 +16,7 @@
         <th> java console project</th>
         <th>개발인원</th>
         <th>팀 / 6명<br>
-          (<a href="https://github.com/moods2">이도윤｜</a><a href="https://github.com/ssj5037">신수진</a>｜<a href="https://github.com/moods2">신승환</a>｜<a href="https://github.com/a45hvn">최재성</a>｜<a href="https://github.com/moods2">최예림</a>｜<a href="https://github.com/moods2">장소진</a>)
+          (<a href="https://github.com/Doyun-Claire-Lee">이도윤｜</a><a href="https://github.com/ssj5037">신수진</a>｜<a href="https://github.com/sexyseunghwan">신승환</a>｜<a href="https://github.com/a45hvn">최재성</a>｜<a href="https://github.com/Yerim-Choi">최예림</a>｜<a href="https://github.com/Sojin-Jang">장소진</a>)
       </th>
     </tr>
       <tr>
@@ -40,15 +42,18 @@
     </tr>
 
 </tbody></table>
-<h3><a id="user-content--appearance" class="anchor" aria-hidden="true" href="#-appearance"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="vhs" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fc.png">📼</g-emoji> Appearance</h3>
-<p>JDK를 이용해서 파일 입출력과 조회가 가능한 프로그램을 만듭니다.</p>
-<h3><a id="user-content--admin" class="anchor" aria-hidden="true" href="#-admin"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Admin</h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/65211288/84998831-500fba80-b18b-11ea-8693-5bf7ed5c55e1.gif"><img src="https://user-images.githubusercontent.com/65211288/84998831-500fba80-b18b-11ea-8693-5bf7ed5c55e1.gif" alt="관리자" style="max-width:100%;"></a></p>
-<h3><a id="user-content--student" class="anchor" aria-hidden="true" href="#-student"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Student</h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/65211288/85092567-e0e6a480-b224-11ea-8ae1-5c6f002032cb.gif"><img src="https://user-images.githubusercontent.com/65211288/85092567-e0e6a480-b224-11ea-8ae1-5c6f002032cb.gif" alt="교육생" style="max-width:100%;"></a></p>
-<h3><a id="user-content--teacher" class="anchor" aria-hidden="true" href="#-teacher"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Teacher</h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/65211288/85092653-1f7c5f00-b225-11ea-8242-c6f5def17d17.gif"><img src="https://user-images.githubusercontent.com/65211288/85092653-1f7c5f00-b225-11ea-8242-c6f5def17d17.gif" alt="교사" style="max-width:100%;"></a></p>
-<h3><a id="user-content--role--member" class="anchor" aria-hidden="true" href="#-role--member"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bookmark_tabs" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d1.png">📑</g-emoji> Role &amp; Member</h3>
+
+### 📼 Appearance
+
+ 자바 콘솔 기반 프로젝트입니다.
+ ### 👋 Member
+ ![호텔 회원](https://user-images.githubusercontent.com/66715897/92342456-e05efb00-f0fb-11ea-94fa-ef99fab8c2c7.gif)
+ 
+ ### 👋 Admin
+ ![호텔 직원](https://user-images.githubusercontent.com/66715897/92342286-6169c280-f0fb-11ea-89af-381e552efa30.gif)
+ 
+### 📑 Role & Member
+
 <table>
     <tbody><tr>
         <th width="16%">업무 / 구성원</th>
