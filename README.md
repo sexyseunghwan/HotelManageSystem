@@ -1,6 +1,6 @@
 # HotelManageSystem
 
-![메인화면](https://user-images.githubusercontent.com/66715897/92342621-52374480-f0fc-11ea-87cc-13ac68257e4c.png)
+![메인](https://user-images.githubusercontent.com/66715897/92355081-828fda80-f11e-11ea-99d1-2f06befb6481.png)
 
 ### 👋 Introduction
 
