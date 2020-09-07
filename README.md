@@ -1,9 +1,7 @@
 # HotelManageSystem
-sist java console project
+<h1>sist java console project</h1>
 <div class="Box-body p-5">
-        <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-doubledragoncenter" class="anchor" aria-hidden="true" href="#doubledragoncenter"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>"이름 작성하는 부분"</h1>
-<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/65211288/84998018-3e79e300-b18a-11ea-957e-80b2acba867a.png"><img src="https://user-images.githubusercontent.com/65211288/84998018-3e79e300-b18a-11ea-957e-80b2acba867a.png" alt="메인" style="max-width:100%;"></a></p>
-<h3><a id="user-content--introduction" class="anchor" aria-hidden="true" href="#-introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Introduction</h3>
+👋![메인화면](https://github.com/a45hvn/HotelManageSystem/issues/3)
 <table>
     <tbody><tr>
         <th>프로젝트 명 </th>
