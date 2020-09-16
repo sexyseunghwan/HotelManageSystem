@@ -40,6 +40,10 @@
         <th>개발도구</th>
         <th colspan="3">Eclipse JEE</th>
     </tr>
+    <tr>
+        <th>사용기술</th>
+        <th colspan="3">Java Console</th>
+    </tr>
 
 </tbody></table>
 
